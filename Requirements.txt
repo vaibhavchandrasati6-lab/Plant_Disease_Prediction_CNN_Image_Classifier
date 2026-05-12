@@ -1,0 +1,7 @@
+Python
+TensorFlow
+Keras
+NumPy
+Matplotlib
+Kaggle_API
+Google_Colab
