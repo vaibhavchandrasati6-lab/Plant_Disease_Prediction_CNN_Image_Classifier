@@ -19,7 +19,6 @@ The project uses image preprocessing, data augmentation, and CNN architecture to
 
 ---
 
-
 # 📂 Dataset
 
 Dataset used:
@@ -91,9 +90,6 @@ The model predicts plant diseases from leaf images and visualizes:
 * Validation Accuracy
 * Training Loss
 * Validation Loss
-
----
-
 
 ---
 
