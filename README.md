@@ -113,5 +113,3 @@ This project helped in understanding:
 * Add real-time image upload
 * Improve accuracy with data augmentation
 * Add Grad-CAM visualization
-
----
