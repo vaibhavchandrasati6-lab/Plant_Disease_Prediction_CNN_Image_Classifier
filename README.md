@@ -1,5 +1,6 @@
 # 🌱 Plant Disease Detection Using CNN
 
+
 ## 📌 Project Overview
 
 This project is a Deep Learning-based Plant Disease Detection System built using a Convolutional Neural Network (CNN). The model is trained on the PlantVillage dataset to classify plant leaf images into multiple disease categories.
